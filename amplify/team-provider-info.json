@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifywallet-dev-00540-authRole",
+      "UnauthRoleArn": "arn:aws:iam::321331093030:role/amplify-amplifywallet-dev-00540-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::321331093030:role/amplify-amplifywallet-dev-00540-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-amplifywallet-dev-00540-deployment",
+      "UnauthRoleName": "amplify-amplifywallet-dev-00540-unauthRole",
+      "StackName": "amplify-amplifywallet-dev-00540",
+      "StackId": "arn:aws:cloudformation:us-west-2:321331093030:stack/amplify-amplifywallet-dev-00540/3b5fcbd0-91a4-11eb-a823-0a5e1eae02b3",
+      "AmplifyAppId": "d2mmpewihcayip"
+    }
+  }
+}
